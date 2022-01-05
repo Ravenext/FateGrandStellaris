@@ -1,0 +1,16 @@
+version="0.1"
+tags={
+	"Technologies"
+	"Graphics"
+	"Leaders"
+	"Gameplay"
+	"Events"
+	"Buildings"
+	"Military"
+	"Spaceships"
+	"Sound"
+	"Species"
+}
+name="Fate Grand Stellaris"
+picture="thumbnail.png"
+supported_version="3.2.2"
